@@ -41,7 +41,7 @@ const yash = {
 <tr>
 <td width="33%" valign="top">
 
-**🏛️ Purdue CCO Portal**<br/>
+**🏛️ Purdue CCO Website**<br/>
 <sub>Next.js · TypeScript · Prisma · PostgreSQL · Kubernetes</sub>
 
 Shipped an end-to-end **event-management module** (schema, APIs, admin dashboards), **DST-aware timezone fixes** and **email workflows** for a production career-services platform. I also built the team's **GitHub Actions CI** with protected-branch quality gates.
