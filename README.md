@@ -25,7 +25,13 @@ const yash = {
   building:  ["Production web platforms", "CI/CD pipelines", "AI-powered developer tools"],
   research:  "Reliability regressions in microservices maintained by AI coding agents",
   stack:     ["Next.js", "TypeScript", "Node.js", "Python", "PostgreSQL", "Docker", "Kubernetes"],
-  openTo:    "Software engineering roles, Summer 2027 & full-time",
+  openTo: {
+    type:  "Full-time",
+    roles: [
+      "Software Engineer", "Full-Stack Engineer", "Backend Engineer",
+      "AI Engineer", "DevOps / Platform Engineer", "Site Reliability Engineer",
+    ],
+  },
 };
 ```
 
